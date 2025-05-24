@@ -1,4 +1,4 @@
-from Modulele1 import *
+from Modulele1 import * 
 
 def alustamine():
     print("Tere tulemast eesti-vene sõnastikku!")
